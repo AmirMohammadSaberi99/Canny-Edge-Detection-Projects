@@ -1,5 +1,3 @@
-# Canny-Edge-Detection-Projects
-Canny Edge Detection Projects
 # Canny Edge Detection Projects
 
 A collection of Python scripts demonstrating various applications of the Canny edge detector (and comparisons with other gradient methods) using OpenCV and Matplotlib.
